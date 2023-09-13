@@ -1,0 +1,4 @@
+email, subject, message
+a@a.com,('aaa', {'aaaaaa'})
+b@a.com,bbbb,bbbbb
+c@a.com, ccc, cccccc
